@@ -10,6 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 20 June 2024 - To: 27 June 2024
+
 Blade Template   14 hrs 4 mins   █████████▒░░░░░░░░░░░░░░░   37.17 %
 PHP              12 hrs 37 mins  ████████▒░░░░░░░░░░░░░░░░   33.35 %
 Markdown         4 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
