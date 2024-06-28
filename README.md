@@ -1,7 +1,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&hide_rank=true&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&card_width=270" 
+        src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&rank_icon=github&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&card_width=270" 
         alt="Github Stats" 
     />
 </a>
