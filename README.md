@@ -1,11 +1,10 @@
 <h1  style="font-weight: 700;">Hi, there! 👋</h1>
 
-## 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
         align="center" 
         height=170 
-        src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&rank_icon=github&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" 
         alt="Github Stats" 
     />
 </a>
@@ -16,8 +15,25 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&card_height=170&card_width=447" alt="GitHub Streak" 
     />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+        align="center" 
+        height=170 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyilhampra&layout=compact&theme=catppuccin_mocha&hide_border=true" 
+        alt="Most used languages github stats" 
+    />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+        align="center" 
+        height=170 
+        src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=catppuccin_mocha&hide_border=true" 
+        alt="Most used languages github stats" 
+    />
+</a>
 
-## 📊 Wakatime Stats:
+<br>
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -40,7 +56,7 @@ Linux                    37 hrs 51 mins      ███████████�
  Last Updated on 28/06/2024 03:51:18 UTC
 <!--END_SECTION:waka-->
 
-## 📒 Todos:
+📒 **Todos**
 - [ ] Finish the x project
 - [ ] Take a holiday
 - [ ] Refactor Neovim and do ricing stuff
