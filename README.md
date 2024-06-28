@@ -50,7 +50,7 @@ Linux                    37 hrs 51 mins      ███████████�
  Last Updated on 28/06/2024 03:51:18 UTC
 <!--END_SECTION:waka-->
 
-## 📒 Todo:
+## 📒 Todos:
 - [ ] Finish the x project
 - [ ] Take a holiday
 - [ ] Refactor Neovim and do ricing stuff
