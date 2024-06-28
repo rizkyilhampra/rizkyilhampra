@@ -1,8 +1,10 @@
 <h1  style="font-weight: 700;">Hi, there! 👋</h1>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="Github Stats" />
+</a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" /></a>
 
 ## Wakatime Stats:
 <!--START_SECTION:waka-->
