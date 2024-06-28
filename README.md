@@ -6,13 +6,6 @@
         alt="Github Stats" 
     />
 </a>
-<a href="https://git.io/streak-stats">
-    <img 
-        align="center" 
-      height=180
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&card_width=410" alt="GitHub Streak" 
-    />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
         align="center" 
@@ -21,16 +14,6 @@
         alt="Most used languages github stats" 
     />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-        align="center" 
-        height=180 
-        src="https://github-readme-stats.vercel.app/api/gist?id=08858d5a427d6921a8f909c4a931b853&theme=catppuccin_mocha&hide_border=true" 
-        alt="My Spotify Top Tracks"
-    />
-</a>
-
-<br>
 
 ---
 
