@@ -7,7 +7,8 @@
 <br/>
 
 ## 📒 Todo
-- [ ] Finish #### project
+- [ ] Finish the x project
+- [ ] Take a holiday
 - [ ] Refactor Neovim and do ricing stuff
 - [ ] Write some blog post in Bahasa
 - [ ] Continue working on Sigata and finished last 10% of 80% worked
