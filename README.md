@@ -19,7 +19,7 @@
   <img 
         align="center" 
         height=170 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyilhampra&layout=compact&theme=catppuccin_mocha&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyilhampra&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" 
         alt="Most used languages github stats" 
     />
 </a>
