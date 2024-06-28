@@ -2,9 +2,20 @@
 
 ## 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="Github Stats" />
+  <img 
+        align="center" 
+        height=170 
+        src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" 
+        alt="Github Stats" 
+    />
 </a>
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+    <img 
+        height=170
+        align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&card_height=170" alt="GitHub Streak" 
+    />
+</a>
 
 ## Wakatime Stats:
 <!--START_SECTION:waka-->
