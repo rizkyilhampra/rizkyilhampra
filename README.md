@@ -1,4 +1,6 @@
-<h1  style="font-weight: 700;">Hi, there! 👋</h1>
+<p style="font-weight: 700; font-size: 32px">Hi, there! 👋</p>
+
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
@@ -33,7 +35,8 @@
 </a>
 
 <br>
-<br>
+
+---
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -56,6 +59,8 @@ Linux                    37 hrs 51 mins      ███████████�
 
  Last Updated on 28/06/2024 03:51:18 UTC
 <!--END_SECTION:waka-->
+
+---
 
 📒 **Todos**
 - [ ] Finish the x project
