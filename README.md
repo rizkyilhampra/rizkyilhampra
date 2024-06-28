@@ -45,7 +45,7 @@ Linux                    37 hrs 51 mins      ███████████�
 - [ ] Take a holiday
 - [ ] Refactor Neovim and do ricing stuff
 - [ ] Write some blog post in Bahasa
-- [ ] Continue working on Sigata and finished last 10% of 80% worked
+- [ ] Finish the x1 project (80%)
 - [ ] Continue working on SPDHTC and release v2.0 stable version
 - [ ] Finish React Course by Jonas
 - [ ] Rewrite SPDHTC as SaaS 
