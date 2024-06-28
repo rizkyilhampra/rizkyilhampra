@@ -5,3 +5,10 @@
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true)
 <br/>
+
+## 📒 Todo
+- [ ] Refactor Neovim and do ricing stuff
+- [ ] Continue working on Sigata and finished last 10% of 80% worked
+- [ ] Continue working on SPDHTC and release v2.0 stable version
+- [ ] Finish React Course by Jonas
+- [ ] Rewrite SPDHTC as SaaS 
