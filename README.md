@@ -6,7 +6,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true)
 <br/>
 
-## 📒 Todo
+## Wakatime Stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 📒 Todo:
 - [ ] Finish the x project
 - [ ] Take a holiday
 - [ ] Refactor Neovim and do ricing stuff
