@@ -1,26 +1,22 @@
-<p style="font-weight: 700; font-size: 32px">Hi, there! 👋</p>
-
----
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
         align="center" 
-        height=170 
-        src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&rank_icon=github&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" 
+      height=180
+        src="https://github-readme-stats.vercel.app/api?username=rizkyilhampra&hide_rank=true&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&card_width=270" 
         alt="Github Stats" 
     />
 </a>
 <a href="https://git.io/streak-stats">
     <img 
-        height=170
         align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&card_height=170&card_width=447" alt="GitHub Streak" 
+      height=180
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&card_width=410" alt="GitHub Streak" 
     />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
         align="center" 
-        height=170 
+        height=180 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyilhampra&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" 
         alt="Most used languages github stats" 
     />
@@ -28,7 +24,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
         align="center" 
-        height=170 
+        height=180 
         src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=catppuccin_mocha&hide_border=true" 
         alt="Most used languages github stats" 
     />
