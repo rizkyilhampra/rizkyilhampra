@@ -13,7 +13,7 @@
     <img 
         height=170
         align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&card_height=170" alt="GitHub Streak" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyilhampra&theme=catppuccin_mocha&hide_border=true&card_height=170&card_width=447" alt="GitHub Streak" 
     />
 </a>
 
