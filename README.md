@@ -25,8 +25,8 @@
   <img 
         align="center" 
         height=180 
-        src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=catppuccin_mocha&hide_border=true" 
-        alt="Most used languages github stats" 
+        src="https://github-readme-stats.vercel.app/api/gist?id=08858d5a427d6921a8f909c4a931b853&theme=catppuccin_mocha&hide_border=true" 
+        alt="My Spotify Top Tracks"
     />
 </a>
 
