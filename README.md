@@ -7,7 +7,9 @@
 <br/>
 
 ## 📒 Todo
+- [ ] Finish #### project
 - [ ] Refactor Neovim and do ricing stuff
+- [ ] Write some blog post in Bahasa
 - [ ] Continue working on Sigata and finished last 10% of 80% worked
 - [ ] Continue working on SPDHTC and release v2.0 stable version
 - [ ] Finish React Course by Jonas
