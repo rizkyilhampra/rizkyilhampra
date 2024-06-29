@@ -55,3 +55,4 @@ My personal todos (non-work related)
       - Bun React Vite Typescript (FE)
       - Tailwind with Shadcn (UI)
       - Sqlite/LibSql(Turso) (DB)
+- [ ] Create an Neovim plugin `malas-ngodonf`
