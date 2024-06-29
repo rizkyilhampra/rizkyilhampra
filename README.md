@@ -42,11 +42,16 @@ Linux                    45 hrs 2 mins       ███████████�
 ---
 
 📒 **Todos**
-- [ ] Finish the x project
-- [ ] Take a holiday
-- [ ] Refactor Neovim and do ricing stuff
-- [ ] Write some blog post in Bahasa
-- [ ] Finish the x1 project (80%)
-- [ ] Continue working on SPDHTC and release v2.0 stable version
-- [ ] Finish React Course by Jonas
-- [ ] Rewrite SPDHTC as SaaS 
+<br>
+My personal todos (non-work related)
+- [ ] Refactor LSP configuration at [nvim-config](https://github.com/rizkyilhampra/nvim-config) and add more screenshot
+- [ ] Rice bar with Waybar/AGS in [dotfiles](https://github.com/rizkyilhampra/dotfilesv2)
+- [ ] Write some [blog post](https://github.com/rizkyilhampra/rizkyilhampra.github.io) in Bahasa
+  - Write tutorial "Menghindari Kebodohan seperti Kominf* dengan Rsync dan Cron untuk Automate Backup Database"
+- [ ] Release v2 stable version [SPDHTC](https://github.com/rizkyilhampra/spdhtc)
+- [ ] Rewrite and Rebrand [SPDHTC](https://github.com/rizkyilhampra/spdhtc) to SPDPTC as OSS SaaS 
+  - Possible Tech Stack
+      - Laravel with Octane for serving API (BE)
+      - Bun React Vite Typescript (FE)
+      - Tailwind with Shadcn (UI)
+      - Sqlite/LibSql(Turso) (DB)
