@@ -56,3 +56,7 @@ My personal todos (non-work related)
       - Tailwind with Shadcn (UI)
       - Sqlite/LibSql(Turso) (DB)
 - [ ] Create an Neovim plugin `malas-ngodonf`
+
+♥️  **Support**
+<br>
+I'm nobody, but just in case If you want waste your money, i'll free to take that 😈. I was open Github Sponsor, you can being my sponsor [here](https://github.com/sponsors/rizkyilhampra)
