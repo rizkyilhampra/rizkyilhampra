@@ -43,6 +43,7 @@ Linux                    45 hrs 2 mins       ███████████�
 
 📒 **Todos**
 <br>
+<br>
 My personal todos (non-work related)
 - [ ] Refactor LSP configuration at [nvim-config](https://github.com/rizkyilhampra/nvim-config) and add more screenshot
 - [ ] Rice bar with Waybar/AGS in [dotfiles](https://github.com/rizkyilhampra/dotfilesv2)
@@ -57,6 +58,9 @@ My personal todos (non-work related)
       - Sqlite/LibSql(Turso) (DB)
 - [ ] Create an Neovim plugin `malas-ngodonf`
 
+---
+
 ♥️  **Support**
 <br>
-I'm nobody, but just in case If you want waste your money, i'll free to take that 😈. I was open Github Sponsor, you can being my sponsor [here](https://github.com/sponsors/rizkyilhampra)
+<br>
+I'm nobody, but just in case you want to waste your money, i'll free to take that 😈. I was open Github Sponsor, you can being my sponsor [here](https://github.com/sponsors/rizkyilhampra). Thanks
