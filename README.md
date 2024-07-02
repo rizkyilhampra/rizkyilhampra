@@ -64,4 +64,4 @@ My personal todos (non-work related)
 ♥️  **Support**
 <br>
 <br>
-I'm nobody, but just in case you want to waste your money, i'll free to take that 😈. I was open Github Sponsor, you can being my sponsor [here](https://github.com/sponsors/rizkyilhampra). Thanks
+I'm nobody, but just in case you want to waste your money, i can help you 😈. I was open Github Sponsor, you can being my sponsor [here](https://github.com/sponsors/rizkyilhampra). Thanks
