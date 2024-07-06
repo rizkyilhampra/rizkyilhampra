@@ -49,14 +49,9 @@ My personal todos (non-work related)
 - [ ] Refactor LSP configuration at [nvim-config](https://github.com/rizkyilhampra/nvim-config) and add more screenshot
 - [ ] Rice bar with Waybar/AGS in [dotfiles](https://github.com/rizkyilhampra/dotfilesv2)
 - [ ] Write some [blog post](https://github.com/rizkyilhampra/rizkyilhampra.github.io) in Bahasa
-  - Write tutorial "Menghindari Kebodohan seperti Kominf* dengan Rsync dan Cron untuk Automate Backup Database"
+  - Write tutorial "Automate Backup Database dengan Rsync dan Cronjob"
 - [ ] Release v2 stable version [SPDHTC](https://github.com/rizkyilhampra/spdhtc)
-- [ ] Rewrite and Rebrand [SPDHTC](https://github.com/rizkyilhampra/spdhtc) to SPDPTC as OSS SaaS 
-  - Possible Tech Stack
-      - Laravel with Octane for serving API (BE)
-      - Bun React Vite Typescript (FE)
-      - Tailwind with Shadcn (UI)
-      - Sqlite/LibSql(Turso) (DB)
+- [ ] Rewrite and rebrand [SPDHTC](https://github.com/rizkyilhampra/spdhtc) as OSS SaaS platform. See [SPDPTC](https://github.com/SPDPTC/SPDPTC) for the progress
 - [ ] Create an Neovim plugin `malas-ngodonf`
 
 ---
