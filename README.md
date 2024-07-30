@@ -14,6 +14,7 @@
         alt="Most used languages github stats" 
     />
 </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizkyilhampra&theme=catppuccin-mocha&hide_border=true" align="center" alt="GitHub Streak" /></a>
 
 ---
 
