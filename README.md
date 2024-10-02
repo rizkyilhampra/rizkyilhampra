@@ -50,7 +50,7 @@ My personal todos (non-work related)
 - [ ] Rice bar with Waybar/AGS in [dotfiles](https://github.com/rizkyilhampra/dotfilesv2)
 - [ ] Write some [blog post](https://github.com/rizkyilhampra/rizkyilhampra.github.io) in Bahasa
   - Write tutorial "Automate Backup Database dengan Rsync dan Cronjob"
-- [ ] Release v2 stable version [SPDHTC](https://github.com/rizkyilhampra/spdhtc)
+- [x] Release v2 stable version [SPDHTC](https://github.com/rizkyilhampra/spdhtc)
 - [ ] Rewrite and rebrand [SPDHTC](https://github.com/rizkyilhampra/spdhtc) as OSS SaaS platform. See [SPDPTC](https://github.com/SPDPTC/SPDPTC) for the progress
 - [ ] Create an Neovim plugin `malas-ngodonf`
 
