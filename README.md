@@ -44,10 +44,10 @@ Linux                    28 hrs 23 mins      ███████████�
 
 📒 **Todos**
 <br>
-- [ ] Refactor LSP stuff at [nvim-config](https://github.com/rizkyilhampra/nvim-config)
+- [x] Refactor LSP stuff at [nvim-config](https://github.com/rizkyilhampra/nvim-config). See [PR](https://github.com/rizkyilhampra/nvim-config/pull/9)
 - [ ] Rice bar with Waybar/AGS in [dotfiles](https://github.com/rizkyilhampra/dotfiles)
 - [ ] Write blog post "Automate Backup Database dengan Rsync dan Cronjob"
-- [x] Release v2 stable version [SPDHTC](https://github.com/rizkyilhampra/spdhtc)
+- [x] Release v2 stable version [SPDHTC](https://github.com/rizkyilhampra/spdhtc). See [v2.0](https://github.com/rizkyilhampra/spdhtc/releases/tag/v2.0)
 - [ ] Rewrite and rebrand [SPDHTC](https://github.com/rizkyilhampra/spdhtc) as OSS SaaS platform.
 - [ ] Create an Neovim plugin `malas-ngodonf.nvim`
 
