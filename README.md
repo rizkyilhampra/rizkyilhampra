@@ -23,21 +23,21 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     18 mins             ████████████░░░░░░░░░░░░░   49.06 % 
-YAML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JSON                     10 mins             █████████░░░░░░░░░░░░░░░░   35.32 % 
+YAML                     9 mins              ████████░░░░░░░░░░░░░░░░░   32.12 % 
+TypeScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-Neovim                   38 mins             █████████████████████████   100.00 % 
+Neovim                   30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+Linux                    30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2026 00:21:57 UTC
+ Last Updated on 10/03/2026 00:19:17 UTC
 <!--END_SECTION:waka-->
 
 ---
