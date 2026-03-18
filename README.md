@@ -23,19 +23,20 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 1 min          █████████████████████████   99.54 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Bash                     1 hr 15 mins        ███████████████████░░░░░░   77.33 % 
+JSON                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Neovim                   1 hr 2 mins         █████████████████████████   100.00 % 
+Neovim                   1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 00:22:58 UTC
+ Last Updated on 18/03/2026 00:23:50 UTC
 <!--END_SECTION:waka-->
 
 ---
