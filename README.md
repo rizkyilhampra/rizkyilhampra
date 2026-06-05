@@ -19,26 +19,8 @@
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.56 % 
-Markdown                 1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   30.62 % 
-Bash                     1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 2 mins        ████████████████░░░░░░░░░   64.11 % 
-Neovim                   2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
-
-💻 Operating System: 
-Linux                    6 hrs 18 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 04/06/2026 00:53:03 UTC
+ Last Updated on 05/06/2026 00:45:44 UTC
 <!--END_SECTION:waka-->
 
 ---
