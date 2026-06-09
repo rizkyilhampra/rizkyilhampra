@@ -23,22 +23,23 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.11 % 
-Markdown                 1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-PHP                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-sh                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TypeScript               7 hrs 9 mins        █████████████░░░░░░░░░░░░   53.18 % 
+Markdown                 2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+PHP                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Docker                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+sh                       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 22 mins       ██████████████████░░░░░░░   71.14 % 
-Neovim                   2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+Claude Code              10 hrs 4 mins       ███████████████████░░░░░░   74.86 % 
+Neovim                   3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Codex CLI                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Linux                    8 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2026 00:47:34 UTC
+ Last Updated on 09/06/2026 00:41:27 UTC
 <!--END_SECTION:waka-->
 
 ---
