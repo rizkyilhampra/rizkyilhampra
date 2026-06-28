@@ -23,22 +23,22 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-TypeScript               5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-PHP                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JavaScript               5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
+TypeScript               4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Markdown                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+PHP                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 35 mins      █████████████████████░░░░   82.87 % 
-Neovim                   3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Claude Code              12 hrs 52 mins      ████████████████████░░░░░   80.04 % 
+Neovim                   3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
 
 💻 Operating System: 
-Linux                    18 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2026 00:43:11 UTC
+ Last Updated on 28/06/2026 00:44:13 UTC
 <!--END_SECTION:waka-->
 
 ---
