@@ -19,55 +19,54 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
-Markdown                 4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-JavaScript               2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+TypeScript               13 hrs 13 mins      ██████████████░░░░░░░░░░░   54.53 % 
+Markdown                 2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+PHP                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 9 mins       ████████████████████░░░░░   81.93 % 
-Neovim                   3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Codex CLI                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Claude Code              21 hrs 33 mins      ██████████████████████░░░   88.91 % 
+Neovim                   2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Codex CLI                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Linux                    24 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 27 mins (91.31%)
+⏱ AI Coding Time: 23 hrs 13 mins (95.8%)
 
-✍️ 6,869 lines written by AI, 637 lines written by hand (91.51% AI-written)
+✍️ 7,228 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 102,571,011 Input Tokens, 495,788 Output Tokens
+🔤 127,693,344 Input Tokens, 533,558 Output Tokens
 
-💵 $473.62 Estimated AI Cost This Week
+💵 $599.50 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 287 AI Prompts
+🧠 59 AI Sessions, 285 AI Prompts
 
-GPT                      6,493 lines         █████████████████████░░░░   83.67 % 
-Qwen                     1,266 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Deepseek                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GPT                      6,965 lines         █████████████████████░░░░   84.62 % 
+Qwen                     1,266 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.51% of written lines came from AI
-📄 Detailed Prompter — average 1,231 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 848 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.59% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 02:10:30 UTC
+ Last Updated on 30/07/2026 01:59:42 UTC
 <!--END_SECTION:waka-->
 
 ---
