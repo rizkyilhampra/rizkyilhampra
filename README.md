@@ -25,47 +25,47 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 2 mins        ███████████████░░░░░░░░░░   58.58 % 
-Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-JavaScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-fish                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               5 hrs 27 mins       █████████████░░░░░░░░░░░░   52.55 % 
+Markdown                 2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+fish                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 29 mins      ██████████████████████░░░   87.43 % 
-Neovim                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Claude Code              8 hrs 30 mins       ████████████████████░░░░░   81.92 % 
+Neovim                   1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 
 💻 Operating System: 
-Linux                    15 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 59 mins (97.1%)
+⏱ AI Coding Time: 9 hrs 56 mins (95.7%)
 
-✍️ 4,386 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,432 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 108,175,465 Input Tokens, 769,326 Output Tokens
+🔤 77,636,676 Input Tokens, 641,679 Output Tokens
 
-💵 $231.63 Estimated AI Cost This Week
+💵 $160.68 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 187 AI Prompts
+🧠 41 AI Sessions, 152 AI Prompts
 
-Qwen                     1,243 lines         █████████████████░░░░░░░░   68.90 % 
-GPT                      549 lines           ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Deepseek                 12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Qwen                     368 lines           ███████████████░░░░░░░░░░   59.93 % 
+GPT                      234 lines           ██████████░░░░░░░░░░░░░░░   38.11 % 
+Deepseek                 12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 647 characters per prompt
+📄 Detailed Prompter — average 507 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 01:20:08 UTC
+ Last Updated on 10/08/2026 01:21:31 UTC
 <!--END_SECTION:waka-->
 
 ---
