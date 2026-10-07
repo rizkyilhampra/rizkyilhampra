@@ -25,26 +25,26 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     32 mins             ██████████░░░░░░░░░░░░░░░   40.60 % 
-JavaScript               26 mins             ████████░░░░░░░░░░░░░░░░░   33.50 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+YAML                     32 mins             ████████░░░░░░░░░░░░░░░░░   30.57 % 
+JavaScript               26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 🔥 Editors: 
-Neovim                   53 mins             █████████████████░░░░░░░░   66.70 % 
-Codex Vscode             26 mins             ████████░░░░░░░░░░░░░░░░░   33.30 % 
+Neovim                   1 hr 19 mins        ███████████████████░░░░░░   74.93 % 
+Codex Vscode             26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (36.31%)
+⏱ AI Coding Time: 29 mins (27.33%)
 
-✍️ 43 lines written by AI, 18 lines written by hand (70.49% AI-written)
+✍️ 43 lines written by AI, 29 lines written by hand (59.72% AI-written)
 
 🔤 124,940 Input Tokens, 28,779 Output Tokens
 
@@ -55,14 +55,14 @@ Linux                    1 hr 20 mins        ███████████�
 GPT                      50 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.49% of written lines came from AI
+⚖️ Balanced with AI — 59.72% of written lines came from AI
 📄 Detailed Prompter — average 886 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 41.86% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 53.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 04:36:35 UTC
+ Last Updated on 07/10/2026 04:02:11 UTC
 <!--END_SECTION:waka-->
 
 ---
