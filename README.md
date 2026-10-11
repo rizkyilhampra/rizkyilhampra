@@ -25,25 +25,25 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-JavaScript               51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-YAML                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   34.36 % 
+JavaScript               51 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🔥 Editors: 
-Neovim                   1 hr 44 mins        ████████████░░░░░░░░░░░░░   46.43 % 
-Codex Vscode             1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.79 % 
-Codex CLI                37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Codex Vscode             1 hr 22 mins        ███████████░░░░░░░░░░░░░░   45.38 % 
+Neovim                   1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Codex CLI                37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
 
 💻 Operating System: 
-Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (59.44%)
+⏱ AI Coding Time: 2 hrs 13 mins (73.31%)
 
 ✍️ 521 lines written by AI, 29 lines written by hand (94.73% AI-written)
 
@@ -65,7 +65,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/10/2026 04:05:35 UTC
+ Last Updated on 11/10/2026 03:41:40 UTC
 <!--END_SECTION:waka-->
 
 ---
