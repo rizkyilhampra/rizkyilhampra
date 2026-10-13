@@ -25,47 +25,47 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   34.36 % 
-JavaScript               51 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+TypeScript               1 hr                ██████████░░░░░░░░░░░░░░░   41.74 % 
+JavaScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 22 mins        ███████████░░░░░░░░░░░░░░   45.38 % 
-Neovim                   1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.92 % 
-Codex CLI                37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Codex Vscode             56 mins             ██████████░░░░░░░░░░░░░░░   38.73 % 
+Neovim                   50 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
+Codex CLI                37 mins             ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 
 💻 Operating System: 
-Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (73.31%)
+⏱ AI Coding Time: 1 hr 44 mins (72.25%)
 
-✍️ 521 lines written by AI, 29 lines written by hand (94.73% AI-written)
+✍️ 478 lines written by AI, 11 lines written by hand (97.75% AI-written)
 
-🔤 925,360 Input Tokens, 144,345 Output Tokens
+🔤 800,420 Input Tokens, 115,566 Output Tokens
 
-💵 $13.27 Estimated AI Cost This Week
+💵 $10.54 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 40 AI Prompts
+🧠 10 AI Sessions, 32 AI Prompts
 
-GPT                      605 lines           █████████████████████████   100.00 % 
+GPT                      555 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.73% of written lines came from AI
-📚 Verbose Prompter — average 1,802 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 8.75% of changed lines were hand-edited
+🤖 AI-Driven — 97.75% of written lines came from AI
+📚 Verbose Prompter — average 2,031 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.81% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 04:04:45 UTC
+ Last Updated on 13/10/2026 05:13:48 UTC
 <!--END_SECTION:waka-->
 
 ---
